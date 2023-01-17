@@ -49,7 +49,6 @@
 
 Graduado em ciência da computação, buscando sempre aperfeiçoamento na área de TI e design gráfico de modo a aprimorar meus conhecimentos de desenvolvedor.
 <div>
-<p>Currículo</p>
 
 [![Currículo](https://img.shields.io/badge/Currículo-%23F24E1E?style=for-the-badge&Color=white)](https://www.canva.com/design/DAE1SC2sWH4/Ily9NBVziNe4uRtIF1txmA/watch)
 </div>
