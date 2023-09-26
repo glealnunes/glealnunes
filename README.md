@@ -58,5 +58,3 @@ Graduado em ciência da computação, buscando sempre aperfeiçoamento na área 
 Desenvolvedor Front-end Junior na Empresa Nasajon. Sou direcionado a desenvolver telas recebidas pelo design e documentadas pelo PO da empresa, a fim de construir um cenário de acordo com as especificações da tela. Priorizo utilizar estilizações responsivas.
 
 <br/>
-
-<img align="center" alt="grupoGNC" style="width: 70%; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" src="assets/logoNasajon.png"/><br/>
