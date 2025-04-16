@@ -1,71 +1,115 @@
-# Hi there <a href="https://www.canva.com/design/DAE1SC2sWH4/qludKr_wDysJ5SGOm-TOhg/view?utm_content=DAE1SC2sWH4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# 👨🏽‍💻 Sobre Mim
 
-<p><em>" This is the place where I opensource stuff and break things " <a href="https://www.oneorigin.us/"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="5%"></a>
-<br/>
+Olá! Eu sou Gesser Filho, um **Desenvolvedor Front-End** apaixonado da Bahia com foco na criação de interfaces web envolventes, responsivas e amigáveis ao usuário.
 
-- 🔭 &nbsp;Estou trabalhando em um site pessoal em angular
-- 🌱 &nbsp;Atualmente estou aprendendo React
-- 💬 &nbsp;Pergunte-me sobre: Web dev/ Tech/ Games/ Filmes/ Música
-- ⚡ &nbsp;Curiosidade: Costumo fazer mixagem de som
+Adoro criar experiências de UI bonitas que não são apenas visualmente atraentes, mas também altamente funcionais e acessíveis. Tenho me especializado no ecossistema React, construindo aplicações web dinâmicas e interativas com padrões modernos de desenvolvimento.
 
-### 📬 Get in Touch
+Minha experiência mais recente foi como **Desenvolvedor Front-End Júnior na Nasajon**, onde transformei especificações de design em interfaces responsivas que atendiam aos requisitos do projeto. Estou comprometido em escrever código limpo e manutenível, além de melhorar continuamente minhas habilidades em tecnologias web modernas.
 
-<div style="display: flex; flex-wrap: wrap; gap:10px; padding-top: 1ch">
+Acredito que o bom desenvolvimento front-end combina expertise técnica com resolução criativa de problemas e empatia pelo usuário — e essa é a abordagem que trago para cada projeto em que trabalho.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gesser-filho-0abb09150)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/gpfilho2010?si=f8a4aca85f364333)
-<a
-        href="mailto:gpfilho2010@gmail.com?subject=Gostaria%20de%20entrar%20em%20contato"
-      >
-<img
-          class="rodape-conteudo-icone-email"
-          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-          alt="foto do icone do email"
-        />
-</a>
+Curioso por natureza. Sempre codificando. Sempre inovando.
 
-</div>
-
-<br>
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=glealnunes&show_icons=true&theme=radical&count_private=true)
-
----
-
-### 📚 Tech stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🪪 Sobre mim
-
-Graduado em ciência da computação, buscando sempre aperfeiçoamento na área de TI e design gráfico de modo a aprimorar meus conhecimentos de desenvolvedor.
+## 🚀 Stack de Tecnologias
 
 <div>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-[![Currículo](https://img.shields.io/badge/Currículo-%23F24E1E?style=for-the-badge&Color=white)](https://www.canva.com/design/DAE1SC2sWH4/qludKr_wDysJ5SGOm-TOhg/view?utm_content=DAE1SC2sWH4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+### 🔶 <strong>Front-End Core</strong>
+🔸 **React** & React Hooks<br>
+🔸 **JavaScript / TypeScript**<br>
+🔸 **HTML5 / CSS3 / SASS**<br>
+🔸 **Tailwind CSS**<br>
+🔸 **Angular / AngularJS**<br>
+🔸 **Design Patterns** (Component, HOC, Render Props)<br>
+🔸 **Responsive Design**<br>
+🔸 **Bootstrap**<br><br>
 
+### 🔶 <strong>DevOps & Workflow</strong>
+🔸 **CI/CD Pipelines**<br>
+🔸 **Git / GitHub**<br>
+🔸 **Docker**<br>
+🔸 **ESLint**<br>
+
+</td>
+<td valign="top" width="50%">
+
+### 🔶 <strong>Back-End & Integrações</strong>
+🔸 **Node.js**<br>
+🔸 **MongoDB**<br>
+🔸 **APIs REST**<br>
+🔸 **Ubuntu (WSL)**<br><br>
+
+### 🔶 <strong>Métodos Ágeis & IA</strong>
+🔸 **Scrum / Kanban**<br>
+🔸 **Claude.AI** para programação assistida<br>
+🔸 **Notion / Miro** para gestão de projetos<br>
+🔸 **DALL-E / Leonardo.AI** para geração de imagens<br>
+🔸 **Figma** para design de interfaces<br><br>
+
+### 🔶 <strong>Outras Habilidades</strong>
+🔸 **Mixagem de Som**<br>
+🔸 **Design Gráfico**<br>
+
+</td>
+</tr>
+</table>
 </div>
+
+## 🔍 O Que Estou Fazendo
+
+- 🔭 Atualmente trabalhando em um site pessoal usando React e Tailwind CSS.
+- 🌱 Aprofundando meus conhecimentos em Design Patterns e arquitetura front-end.
+- 🎨 Combinando minha paixão por design com habilidades de desenvolvimento.
+- 🤖 Explorando a interseção de tecnologias com Métodos Ágeis com Inteligência Artificial.
+
+## 📂 Projetos em Destaque
+
+🔹 **ToolProjectManagement**<br>
+Ferramenta de gerenciamento de projetos ágeis desenvolvida com React. Permite adicionar, atualizar e deletar tarefas, além de movê-las entre listas no estilo Kanban. Auxilia equipes a visualizar trabalho, limitar work-in-progress e maximizar eficiência no fluxo de desenvolvimento.
+
+🔹 **Desafio WebJump**<br>
+E-commerce esportivo desenvolvido com Angular, CSS e JavaScript. Implementei uma página funcional com navegação por categorias de produtos e integração com API, proporcionando uma experiência de compra dinâmica e atrativa para os usuários.
+
+🔹 **Cajueiros do Aju Estúdio**<br>
+Página institucional criada para um estúdio de estratégias criativas para marcas brasileiras. Desenvolvida com HTML, CSS e Angular, entregando uma solução eficiente e visualmente impactante para otimizar o alcance online da empresa.
+
+🔹 **Sistema de Registro de Ponto (Nasajon)**<br>
+Participei ativamente no desenvolvimento de um sistema web que permite o registro de ponto com captura de fotografia. Trabalhei com AngularJS, integrações de API REST e design responsivo.
+
+## 🖥️ Experiência Profissional
+
+**Desenvolvedor Front-End Júnior | Nasajon**
+- Desenvolvi sistemas web responsivos usando AngularJS;
+- Integrei APIs REST para comunicação com o backend;
+- Melhorei funcionalidades existentes seguindo metodologia Scrum;
+- Participei ativamente no desenvolvimento de um sistema de registro de ponto online com fotografia;
+- Utilizei ferramentas como AngularJS, CSS, Figma e Ubuntu (WSL);
+
+## 🎓 Formação & Histórico
+
+Graduado em Ciência da Computação com paixão por aprendizado contínuo em TI e design gráfico. Estou constantemente aprimorando minhas habilidades de desenvolvimento através da prática, cursos online e envolvimento com a comunidade.
+
+## 💬 Vamos Conversar Sobre
+
+- Desenvolvimento front-end avançado.
+- Design patterns e arquitetura de software.
+- Integração de IA em aplicações web.
+- Otimização de performance.
+- Métodos ágeis e gerenciamento de projetos.
+- Games, filmes, animes e produção musical.
+
+## 📬 Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gesser-filho-0abb09150)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/gpfilho2010?si=f8a4aca85f364333)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gpfilho2010@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-%23F24E1E?style=for-the-badge&Color=white)](https://drive.google.com/file/d/1eZFHS4o1qYLH8nMQXfkPLKsYLd3mGA5D/view?usp=sharing)
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glealnunes&show_icons=true&theme=radical&count_private=true) -->
 
 ---
 
-### 🖥️ Último cargo
-
-Desenvolvedor Front-end Junior na Empresa Nasajon. Sou direcionado a desenvolver telas recebidas pelo design e documentadas pelo PO da empresa, a fim de construir um cenário de acordo com as especificações da tela. Priorizo utilizar estilizações responsivas.
-
-<br/>
+> "Este é o lugar onde eu faço open source e quebro coisas"
