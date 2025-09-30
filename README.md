@@ -1,42 +1,41 @@
 # 👨🏽‍💻 Gesser Filho | Front-End Developer
 
-Hello! I'm Gesser Filho, a passionate **Front-End Developer** from Bahia, Brazil focused on creating engaging, responsive and user-friendly web interfaces.
+Hello! **I'm very curious about new experiences.** I'm Brazilian, originally from Salvador, Bahia, and was born on March 24, 2001. I have a Bachelor's degree in Computer Science and am passionate about creating distinctive, responsive, and easy-to-use web interfaces.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gesser-filho-0abb09150)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gpfilho2010@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/gpfilho2010?si=f8a4aca85f364333)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gleal_nunes/)
 [![Resume](https://img.shields.io/badge/Resume-%23F24E1E?style=for-the-badge&Color=white)](https://docs.google.com/document/d/1Yvx_IC3XmZX5CRCzocedlWbPUjGykxA3xyHY5f8u2Xo/edit?usp=sharing)
 
 ## 🧠 About Me
 
-I love creating beautiful UI experiences that are not only visually appealing but also highly functional and accessible. With 5 years of experience in software development, I've specialized in the React ecosystem, building dynamic and interactive web applications with modern development patterns.
+I enjoy being creative and sharing my experiences on the internet, a tool that fosters intuition and conversation. With 5 years of experience in software development, I specialize in the React ecosystem, building dynamic and interactive web applications with modern development standards.
 
-My most recent experience was as a Junior Front-End Developer at Nasajon, where I transformed design specifications into responsive interfaces that met project requirements. I'm committed to writing clean and maintainable code, while continuously improving my skills in modern web technologies.
+My most recent experience was as a Junior Front-End Developer at Nasajon, where I transformed design specifications into responsive interfaces that met the project's requirements. I'm committed to writing clean, maintainable code while honing my skills in modern technologies.
 
-I believe great front-end development combines technical expertise with creative problem solving and empathy for the user — and that's the approach I bring to every project I work on.
+I believe that the power of life tends to take us to expansive places. I'm a great developer and strive to combine my technical expertise with creative solutions and empathy for the world.
 
-*Naturally curious. Always coding. Always innovating!*
+*Curious about the world. I enjoy programming. Always innovating!*
 
 ## 🚀 Technology Stack
 
 <div>
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 ### 🔶 <strong>Front-End Core</strong>
-🔸 **React** & React Hooks<br>
+🔸 **React & React Hooks**<br>
 🔸 **JavaScript / TypeScript**<br>
 🔸 **HTML5 / CSS3 / SASS**<br>
-🔸 **Tailwind CSS**<br>
 🔸 **Angular / AngularJS**<br>
-🔸 **Design Patterns** (Component, HOC, Render Props)<br>
+🔸 **IA Design**<br>
 🔸 **Responsive Design**<br>
-🔸 **Bootstrap**<br><br>
 
 ### 🔶 <strong>Languages</strong>
-🔸 **Technical English**<br>
 🔸 **Yoruba**<br>
+🔸 **Technical English**<br>
 🔸 **Spanish**<br>
 
 ### 🔶 <strong>DevOps & Workflow</strong>
@@ -46,7 +45,7 @@ I believe great front-end development combines technical expertise with creative
 🔸 **ESLint**<br>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 ### 🔶 <strong>Back-End & Integrations</strong>
 🔸 **Node.js**<br>
@@ -56,10 +55,10 @@ I believe great front-end development combines technical expertise with creative
 
 ### 🔶 <strong>Agile Methods & Tools</strong>
 🔸 **Scrum / Kanban**<br>
-🔸 **Notion / Miro** for project management<br>
-🔸 **Figma** for interface design<br>
-🔸 **Claude.AI** for assisted programming<br>
-🔸 **DALL-E / Leonardo.AI** for image generation<br><br>
+🔸 **Notion**<br>
+🔸 **Figma**<br>
+🔸 **Claude.AI**<br>
+🔸 **DALL-E / Leonardo.AI**<br><br>
 
 ### 🔶 <strong>Other Skills</strong>
 🔸 **Sound Mixing**<br>
@@ -72,10 +71,9 @@ I believe great front-end development combines technical expertise with creative
 
 ## 🔍 What I'm Up To
 
-- 🔭 Currently working on a personal website using React and Tailwind CSS
-- 🌱 Deepening my knowledge of Design Patterns and front-end architecture
-- 🎨 Combining my passion for design with development skills
-- 🤖 Exploring the intersection of technologies with Agile Methods and AI
+- 🔭 Currently working in Social Media. I have an Instagram page: @gleal_nunes.
+- 🌱 Deepening my knowledge of Design Patterns and software architecture.
+- 🤖 Exploring the intersection of technologies with Agile Methods and AI.
 
 ## 📂 Featured Projects
 
@@ -84,12 +82,6 @@ Agile project management tool developed with React. Allows adding, updating, and
 
 ### 🔹 **WebJump Challenge**
 Sports e-commerce platform developed with Angular, CSS, and JavaScript. I implemented a functional page with product category navigation and API integration, providing a dynamic and attractive shopping experience for users.
-
-### 🔹 **Cajueiros do Aju Studio**
-Institutional page created for a creative strategy studio for Brazilian brands. Developed with HTML, CSS, and Angular, delivering an efficient and visually impactful solution to optimize the company's online reach.
-
-### 🔹 **Time Clock System (Nasajon)**
-I actively participated in the development of a web system that allows time clock registration with photo capture. I worked with AngularJS, REST API integrations, and responsive design.
 
 ## 🖥️ Professional Experience
 
@@ -103,53 +95,20 @@ I actively participated in the development of a web system that allows time cloc
 - Actively participated in daily Scrum meetings
 
 #### **Principais projetos:**
-- **Online Time Clock System with Photography**: Developed a system for employee time registration via photographic recognition, optimizing HR processes
+- **Online Time Clock System with Photography**: Developed a system for employee time registration via photographic recognition, optimizing HR processes.
 
 #### **Resultados alcançados:**
-- Contributed to a 100% increase in efficiency for daily task updates, reinforcing agile monitoring culture in the team
-- Collaborated in delivering more responsive and optimized systems, directly impacting internal user satisfaction
-
-### **Web Front-End Developer | AJU Estúdio | Aug/2022 - Oct/2022**
-
-#### **Principais responsabilidades:**
-- Developed responsive pages using Angular, HTML, SCSS
-- Participated in design alignment meetings and technical requirements
-- Collaborated in a multidisciplinary team throughout the development cycle
-
-#### **Principais projetos:**
-- **Cajueiros Portal**: Developed a web platform with mobile and desktop versions to increase online visibility for clients
-
-#### **Resultados alcançados:**
-- Delivered a solution that doubled online visibility for Cajueiros team clients
-- Implemented reusable components that reduced development time by 30%
-
-### **System Developer Intern | Grupo GNC | Jun/2021 - Sep/2022**
-
-#### **Principais responsabilidades:**
-- Developed Full Stack applications using Ionic framework
-- Created and maintained responsive interfaces for internal systems
-- Implemented management reports and dashboards for decision making
-
-#### **Principais projetos:**
-- **Fleet Tracking System**: Developed web/mobile application for real-time vehicle monitoring
-
-#### **Resultados alcançados:**
-- Optimized fleet management, reducing operational response time by 45%
-- Implemented intuitive interfaces that facilitated training for new users
+- Contributed to a 100% increase in efficiency for daily task updates, reinforcing agile monitoring culture in the team.
+- Collaborated in delivering more responsive and optimized systems, directly impacting internal user satisfaction.
 
 ## 🎓 Education & Background
 
 - **Computer Science** - Universidade Salvador (UNIFACS) (2019 - 2022)
-- **TCC**: *ClockCognitivo* — Support system for people with cognitive problems, focusing on accessibility and usability (Technologies: Ionic, HTML, SCSS)
+- **TCC**: *ClockCognitivo* — Support system for people with cognitive problems, focusing on accessibility and usability (Technologies: Ionic, HTML, SCSS).
 
 ## 💬 Let's Talk About
 
-- Advanced front-end development
-- Design patterns and software architecture
-- AI integration in web applications
-- Performance optimization
-- Agile methods and project management
-- Games, movies, anime, and music production
+- Production games, movies, anime, and music
 
 ---
 
