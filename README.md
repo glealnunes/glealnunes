@@ -2,11 +2,23 @@
 
 Hello! **I'm very curious about new experiences.** I'm Brazilian, originally from Salvador, Bahia, and was born on March 24, 2001. I have a Bachelor's degree in Computer Science and am passionate about creating distinctive, responsive, and easy-to-use web interfaces.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gesser-filho-0abb09150)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gpfilho2010@gmail.com)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/gpfilho2010?si=f8a4aca85f364333)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gleal_nunes/)
-[![Resume](https://img.shields.io/badge/Resume-%23F24E1E?style=for-the-badge&Color=white)](https://docs.google.com/document/d/1Yvx_IC3XmZX5CRCzocedlWbPUjGykxA3xyHY5f8u2Xo/edit?usp=sharing)
+<a href="https://www.linkedin.com/in/gesser-filho-0abb09150" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linktr.ee/gleal_nunes?utm_source=linktree_profile_share&ltsid=d844fe49-c1d9-4ca5-9fe8-7cee7e9f6d70" target="_blank">
+  <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
+</a>
+<a href="mailto:gpfilho2010@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://open.spotify.com/user/gpfilho2010?si=f8a4aca85f364333" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+</a>
+<a href="https://www.instagram.com/gleal_nunes/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://docs.google.com/document/d/1Yvx_IC3XmZX5CRCzocedlWbPUjGykxA3xyHY5f8u2Xo/edit?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-%23F24E1E?style=for-the-badge&Color=white" alt="Resume">
+</a>
 
 ## 🧠 About Me
 
